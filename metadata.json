@@ -1,0 +1,5 @@
+{
+  "name": "E-Commerce Product Image Generator",
+  "description": "An AI-powered application that analyzes uploaded product images and generates four professional e-commerce promotional visuals in suitable scenes using Gemini API and Firebase.",
+  "requestFramePermissions": []
+}
